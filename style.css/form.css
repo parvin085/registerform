@@ -1,0 +1,23 @@
+body{
+    margin:0 auto;
+    padding:0px;
+}
+.main{
+    width: 500px;
+    min-height: 600px;
+    background: lightgray;
+    background-image:url(https://image-tc.galaxy.tf/wijpeg-6rc902e9t312jljywldrat8xl/york-pool-dusk-ok.jpg?width=1920);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    opacity: 1;
+    color: black;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+    margin: 20px;
+}
+.main h1{
+    text-align: center;
+    color: lightgreen;
+}
